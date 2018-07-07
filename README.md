@@ -3,14 +3,14 @@ A solution provided for Task 2 of the Trivago challenge
 
 Task 
 
-Create 5 different automated test cases for the things that you think are important to automate. 
-Explain in detail why you choose these tests. 
-What are the limitations of this test. 
-Generate test results for every run. 
-Describe why you choose this method technology. 
-Please push your project to a git repository. 
-Attach the link to your test results. 
-Add a small step by step tutorial to execute your automated test.
+a. Create 5 different automated test cases for the things that you think are important to automate. 
+b. Explain in detail why you choose these tests. 
+c. What are the limitations of this test. 
+d. Generate test results for every run. 
+e. Describe why you choose this method technology. 
+f. Please push your project to a git repository. 
+g. Attach the link to your test results. 
+h. Add a small step by step tutorial to execute your automated test.
 
 
 Answers:
@@ -35,7 +35,7 @@ e. I would chose automation in order to perform Regression testing. A good pract
 
 f. https://github.com/jasnatrgachevska/trivagoAcceptanceTest
 
-g. 
+g. http://htmlpreview.github.io/?https://raw.githubusercontent.com/jasnatrgachevska/trivagoAcceptanceTest/master/tests/_output/report.html
 
 h. Step to step guide how to execute the automated tests 
 - Install codeception, refer to the first step of the official website for details https://codeception.com/quickstart
